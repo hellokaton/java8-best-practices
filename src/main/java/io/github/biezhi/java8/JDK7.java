@@ -6,12 +6,12 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 不好的做法
+ * JDK7的时候
  *
  * @author biezhi
  * @date 2017/7/27
  */
 @Target({ElementType.TYPE, ElementType.METHOD})
 @Retention(RetentionPolicy.RUNTIME)
-public @interface Bad {
+public @interface JDK7 {
 }

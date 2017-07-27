@@ -6,7 +6,7 @@ import java.lang.annotation.RetentionPolicy;
 import java.lang.annotation.Target;
 
 /**
- * 好的做法
+ * 好的做法，在Java8中
  *
  * @author biezhi
  * @date 2017/7/27
